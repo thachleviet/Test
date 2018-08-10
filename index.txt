@@ -8,9 +8,5 @@ Thay master lan 2
 Thay master lan 3
 Thay master lan 4
 Testing Thay doi lan 4
-<<<<<<< HEAD
-Thay master lan 5 6 
-=======
-Thay master lan 5 5
->>>>>>> 9545802ab147144b4849d0469a28e6b2ed8c1c5f
+Thay master lan 5 5 6
 
