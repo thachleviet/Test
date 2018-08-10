@@ -7,8 +7,6 @@ Mater Thay doi
 Thay master lan 2
 Thay master lan 3
 Thay master lan 4
-<<<<<<< HEAD
 Testing Thay doi lan 4
-=======
 Thay master lan 5
->>>>>>> 6bf96950a012c235b458f5232f7f052a85992814
+
